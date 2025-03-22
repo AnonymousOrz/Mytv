@@ -3107,6 +3107,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000032/index.
 http://www.terrykang.xyz:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱喜剧" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱喜剧.png" group-title="IHOT-iTV",iHOT 爱喜剧
 http://hhxhhy.top:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱喜剧" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱喜剧.png" group-title="IHOT-iTV",iHOT 爱喜剧
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱科幻" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱科幻.png" group-title="IHOT-iTV",iHOT 爱科幻
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱科幻" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱科幻.png" group-title="IHOT-iTV",iHOT 爱科幻
@@ -3115,6 +3117,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000033/index.
 http://www.terrykang.xyz:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱科幻" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱科幻.png" group-title="IHOT-iTV",iHOT 爱科幻
 http://hhxhhy.top:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱科幻" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱科幻.png" group-title="IHOT-iTV",iHOT 爱科幻
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱浪漫" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱浪漫.png" group-title="IHOT-iTV",iHOT 爱浪漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱浪漫" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱浪漫.png" group-title="IHOT-iTV",iHOT 爱浪漫
@@ -3123,6 +3127,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000035/index.
 http://www.terrykang.xyz:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱浪漫" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱浪漫.png" group-title="IHOT-iTV",iHOT 爱浪漫
 http://hhxhhy.top:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱浪漫" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱浪漫.png" group-title="IHOT-iTV",iHOT 爱浪漫
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱悬疑" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱悬疑.png" group-title="IHOT-iTV",iHOT 爱悬疑
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱悬疑" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱悬疑.png" group-title="IHOT-iTV",iHOT 爱悬疑
@@ -3131,6 +3137,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000036/index.
 http://www.terrykang.xyz:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱悬疑" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱悬疑.png" group-title="IHOT-iTV",iHOT 爱悬疑
 http://hhxhhy.top:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱悬疑" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱悬疑.png" group-title="IHOT-iTV",iHOT 爱悬疑
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱谍战" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱谍战.png" group-title="IHOT-iTV",iHOT 爱谍战
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱谍战" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱谍战.png" group-title="IHOT-iTV",iHOT 爱谍战
@@ -3139,6 +3147,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000038/index.
 http://www.terrykang.xyz:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱谍战" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱谍战.png" group-title="IHOT-iTV",iHOT 爱谍战
 http://hhxhhy.top:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱谍战" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱谍战.png" group-title="IHOT-iTV",iHOT 爱谍战
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱科学" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱科学.png" group-title="IHOT-iTV",iHOT 爱科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱科学" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱科学.png" group-title="IHOT-iTV",iHOT 爱科学
@@ -3147,6 +3157,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000047/index.
 http://www.terrykang.xyz:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱科学" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱科学.png" group-title="IHOT-iTV",iHOT 爱科学
 http://hhxhhy.top:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱科学" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱科学.png" group-title="IHOT-iTV",iHOT 爱科学
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱玩具" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱玩具.png" group-title="IHOT-iTV",iHOT 爱玩具
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱玩具" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱玩具.png" group-title="IHOT-iTV",iHOT 爱玩具
@@ -3155,6 +3167,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000053/index.
 http://www.terrykang.xyz:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱玩具" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱玩具.png" group-title="IHOT-iTV",iHOT 爱玩具
 http://hhxhhy.top:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱玩具" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱玩具.png" group-title="IHOT-iTV",iHOT 爱玩具
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱赛车" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱赛车.png" group-title="IHOT-iTV",iHOT 爱赛车
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱赛车" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱赛车.png" group-title="IHOT-iTV",iHOT 爱赛车
@@ -3163,6 +3177,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000055/index.
 http://www.terrykang.xyz:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱赛车" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱赛车.png" group-title="IHOT-iTV",iHOT 爱赛车
 http://hhxhhy.top:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱赛车" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱赛车.png" group-title="IHOT-iTV",iHOT 爱赛车
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱旅行" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱旅行.png" group-title="IHOT-iTV",iHOT 爱旅行
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱旅行" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱旅行.png" group-title="IHOT-iTV",iHOT 爱旅行
@@ -3171,6 +3187,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000056/index.
 http://www.terrykang.xyz:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱旅行" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱旅行.png" group-title="IHOT-iTV",iHOT 爱旅行
 http://hhxhhy.top:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱旅行" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱旅行.png" group-title="IHOT-iTV",iHOT 爱旅行
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱奇谈" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱奇谈.png" group-title="IHOT-iTV",iHOT 爱奇谈
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱奇谈" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱奇谈.png" group-title="IHOT-iTV",iHOT 爱奇谈
@@ -3179,6 +3197,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000058/index.
 http://www.terrykang.xyz:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱奇谈" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱奇谈.png" group-title="IHOT-iTV",iHOT 爱奇谈
 http://hhxhhy.top:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱奇谈" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱奇谈.png" group-title="IHOT-iTV",iHOT 爱奇谈
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱动漫" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱动漫.png" group-title="IHOT-iTV",iHOT 爱动漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="iHOT 爱动漫" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱动漫.png" group-title="IHOT-iTV",iHOT 爱动漫
@@ -3191,6 +3211,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000059/index.
 http://www.terrykang.xyz:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱动漫" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱动漫.png" group-title="IHOT-iTV",iHOT 爱动漫
 http://hhxhhy.top:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱动漫" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱动漫.png" group-title="IHOT-iTV",iHOT 爱动漫
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱体育" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱体育.png" group-title="IHOT-iTV",iHOT 爱体育
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱体育" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱体育.png" group-title="IHOT-iTV",iHOT 爱体育
@@ -3199,6 +3221,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000060/index.
 http://www.terrykang.xyz:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱体育" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱体育.png" group-title="IHOT-iTV",iHOT 爱体育
 http://hhxhhy.top:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱体育" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱体育.png" group-title="IHOT-iTV",iHOT 爱体育
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱历史" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱历史.png" group-title="IHOT-iTV",iHOT 爱历史
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱历史" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱历史.png" group-title="IHOT-iTV",iHOT 爱历史
@@ -3207,6 +3231,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000046/index.
 http://www.terrykang.xyz:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱历史" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱历史.png" group-title="IHOT-iTV",iHOT 爱历史
 http://hhxhhy.top:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱历史" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱历史.png" group-title="IHOT-iTV",iHOT 爱历史
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱怀旧" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱怀旧.png" group-title="IHOT-iTV",iHOT 爱怀旧
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱怀旧" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱怀旧.png" group-title="IHOT-iTV",iHOT 爱怀旧
@@ -3215,6 +3241,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000057/index.
 http://www.terrykang.xyz:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱怀旧" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱怀旧.png" group-title="IHOT-iTV",iHOT 爱怀旧
 http://hhxhhy.top:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱怀旧" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱怀旧.png" group-title="IHOT-iTV",iHOT 爱怀旧
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱电竞" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱电竞.png" group-title="IHOT-iTV",iHOT 爱电竞
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱电竞" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱电竞.png" group-title="IHOT-iTV",iHOT 爱电竞
@@ -3227,6 +3255,8 @@ http://hhxhhy.top:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
 http://www.terrykang.xyz:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱都市" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱都市.png" group-title="IHOT-iTV",iHOT 爱都市
 http://hhxhhy.top:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱都市" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱都市.png" group-title="IHOT-iTV",iHOT 爱都市
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱青春" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱青春.png" group-title="IHOT-iTV",iHOT 爱青春
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱青春" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱青春.png" group-title="IHOT-iTV",iHOT 爱青春
@@ -3235,6 +3265,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000041/index.
 http://www.terrykang.xyz:35455/itv/6000000006000100630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱青春" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱青春.png" group-title="IHOT-iTV",iHOT 爱青春
 http://hhxhhy.top:35455/itv/6000000006000100630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱青春" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱青春.png" group-title="IHOT-iTV",iHOT 爱青春
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱院线" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱院线.png" group-title="IHOT-iTV",iHOT 爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT 爱院线" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱院线.png" group-title="IHOT-iTV",iHOT 爱院线
@@ -3243,6 +3275,8 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.
 http://www.terrykang.xyz:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="iHOT 爱院线" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱院线.png" group-title="IHOT-iTV",iHOT 爱院线
 http://hhxhhy.top:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT 爱院线" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/iHOT 爱院线.png" group-title="IHOT-iTV",iHOT 爱院线
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="NewTV 东北热剧" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV 东北热剧.png" group-title="NewTV",NewTV 东北热剧
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="NewTV 东北热剧" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV 东北热剧.png" group-title="NewTV",NewTV 东北热剧
@@ -3981,5 +4015,5 @@ https://cccimg.com/view.php/761c19bd2505dc86f142f56f31e36667.mp4
 https://cccimg.com/view.php/761c19bd2505dc86f142f56f31e36667.mp4
 #EXTINF:-1 tvg-name="谨防上当受骗!" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/谨防上当受骗!.png" group-title="仅供学习使用",谨防上当受骗!
 https://cccimg.com/view.php/761c19bd2505dc86f142f56f31e36667.mp4
-#EXTINF:-1 tvg-name="请自用勿贩卖" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/请自用勿贩卖.png" group-title="🕘️更新时间",2025-03-22 18:52:44
+#EXTINF:-1 tvg-name="请自用勿贩卖" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/fanmingming/live/main/tv/请自用勿贩卖.png" group-title="🕘️更新时间",2025-03-23 06:42:05
 https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
