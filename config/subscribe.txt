@@ -23,6 +23,9 @@ https://m3u.ibert.me/txt/o_cn.txt
 http://vip.zj.frp.one:25801/m3u/2
 http://vip.zj.frp.one:25803/Sub?type=m3u
 http://tvbox6.icu/live.txt
+http://php.540734621.xyz/migu.txt
+https://ztha.top/TVBox/tv/thtv.txt
+http://150.158.112.123/live.txt
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt
 https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axghnvpkxk5c/b/vircloud/o/ipv6.txt
