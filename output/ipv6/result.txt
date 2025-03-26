@@ -527,14 +527,17 @@ CGTN-记录,http://yc.myds.me:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
 广东珠江,http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000003000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=YanG-1989
 广东珠江,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
+广东民生,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_228?token=OQWTpmBbsz0MWxVlxoFkPA%3D%3D&key=XnL0tLDVZtIbh%2BfKh8qN8%2F7MGyDxAyWUlfV0AwU4doO2Fp41Km3hH4%2FR7o%2FAIyKTsisXndAnniBIt%2FfzVbLDHPReBLcFHITYy9r31cjFBSZosIgBt0%2FpMXetn9D8ydeiwpAX7V0sBD4dYroSN964mcTcMrVE%2B8XiHkppHRfyggHfqNZX1qCDeqqM92kW%2FeLKfYK8yA4k1z2sHkWTqVAHA%2Bs8194EFo%2BlttaH16%2FfXD5oGJytb4YVLsMIYiPspLeaRc4MwtTTlwmPETDRiyJqHB4l7ZASbcf1Vow6YnUP0QqvhixaRFrYrmUH848xuTy6FgVKHc%2FqnqxorokXao7VtQ%3D%3D&clientIp=246.85.9.76
 广东体育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
+广东体育,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_230?token=OQWTpmBbsz0MWxVlxoFkPA%3D%3D&key=XnL0tLDVZtIbh%2BfKh8qN8%2F7MGyDxAyWUlfV0AwU4doO2Fp41Km3hH4%2FR7o%2FAIyKTUQDyrHffM%2FLW1D6RdsY4iEjZsiAZRbzmxRJpBhyEHJCXbNAFAuZjncidjdfvW6gzlbju5PaKcBsQGfuzL5C22HuOlRh3wCn3%2FRethmcOUB8e2qsYrHk7s3kOTVOpcVAhJHtnldQHKdwIWVqvJrb4Fb9%2FcjhiAU0%2BiPH22rff0cVxb6qNxQIwbLgLAt1VYAy3yt7M%2FOIuBmwK1rLU%2F6qezkoOjVaEyZruutxLhSKA9zw8vaD1dUyfXgIvIE41UHPr0OY%2F6sKN3jfDUaT5J46yZw%3D%3D&clientIp=246.85.9.76
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 广东影视,http://z.b.bkpcp.top/m.php?id=gdys
 广东影视,http://goo.bkpcp.top/mg/gdys
+广东影视,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_229?token=OQWTpmBbsz0MWxVlxoFkPA%3D%3D&key=XnL0tLDVZtIbh%2BfKh8qN8%2F7MGyDxAyWUlfV0AwU4doO2Fp41Km3hH4%2FR7o%2FAIyKTSon7xMftYbTMy4qd3YdkHNgvox0WnoFiWjoxSnHFw559juzBpOBrjTV20USUko58mvkWmzQ%2FiBO%2Bvj7dJPKjwfZfmhAOvQ90qXJwaEZtg3BfBfHgOU9UclZ56hVM%2BASv2VEImapIJenJ3KKtsg8FXl0VDTXkQaCN6Sl7IOx7ALTp6CyQUab8THKOQWHai9ebx6wF0K%2FRAerA1Td7KJOTFQulTuxcqinCUgn5km5PYjairuewbMI5ytTfBJZDMf4P8Kocl%2BeCzoRs05fKCmrglQ%3D%3D&clientIp=246.85.9.76
 广东移动,http://php.jdshipin.com:8880/PLTV/chudian.php?id=gdyd
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,https://live.iill.top/gztv/zhonghe
@@ -852,6 +855,7 @@ NewTV 动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=yste
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
+广东体育,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_230?token=OQWTpmBbsz0MWxVlxoFkPA%3D%3D&key=XnL0tLDVZtIbh%2BfKh8qN8%2F7MGyDxAyWUlfV0AwU4doO2Fp41Km3hH4%2FR7o%2FAIyKTUQDyrHffM%2FLW1D6RdsY4iEjZsiAZRbzmxRJpBhyEHJCXbNAFAuZjncidjdfvW6gzlbju5PaKcBsQGfuzL5C22HuOlRh3wCn3%2FRethmcOUB8e2qsYrHk7s3kOTVOpcVAhJHtnldQHKdwIWVqvJrb4Fb9%2FcjhiAU0%2BiPH22rff0cVxb6qNxQIwbLgLAt1VYAy3yt7M%2FOIuBmwK1rLU%2F6qezkoOjVaEyZruutxLhSKA9zw8vaD1dUyfXgIvIE41UHPr0OY%2F6sKN3jfDUaT5J46yZw%3D%3D&clientIp=246.85.9.76
 纬来体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 五星体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 五星体育,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -928,6 +932,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 动画频道,#genre#
 广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
+广东少儿,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_232?token=OQWTpmBbsz0MWxVlxoFkPA%3D%3D&key=XnL0tLDVZtIbh%2BfKh8qN8%2F7MGyDxAyWUlfV0AwU4doO2Fp41Km3hH4%2FR7o%2FAIyKTuwRXdKz%2Bg6%2FIibHG%2FtpEPbyrbQR0s%2FzWCG1%2FrAztq8rIKJzgSfNoa1QYqwb6cwXz%2FZiPSf9gNqidVFgv8vsf13T9i3Dr%2BKuzLlRcP9GzWNK4E6iR6GwRnXhxb7zXMuDyW89wiGeBdKAOktv6GeQeSMqBkaD77tHA7ErDzuT8jVUL0DktbblaMhK44y%2FpC67HDKaBiL%2Bfqkg9fUU4SoLRYsU5n7sOMqeMBUF3F4gTAALd0vwtzI1kZddkAUr6G9jgj2Q6gtuYPAHkBmhmmwJFxQ%3D%3D&clientIp=246.85.9.76
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
@@ -2143,4 +2148,4 @@ NewTV 黑莓电影,http://yc.myds.me:35455/itv/1000000004000019624.m3u8?cdn=yste
 谨防上当受骗!,https://cccimg.com/view.php/761c19bd2505dc86f142f56f31e36667.mp4
 
 🕘️更新时间,#genre#
-2025-03-26 18:50:26,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
+2025-03-27 06:44:17,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
