@@ -1237,6 +1237,7 @@ CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 简小熙赌片,https://live.metshop.top/huya/11342399
 古墓系列,https://live.metshop.top/huya/11352913
 古墓系列,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11352913
+古墓系列,https://zb.99099292.xyz/live/huya/11352913?media=hls
 灾难电影,https://live.metshop.top/huya/11352871
 港片,https://live.metshop.top/huya/11602043
 港片,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/虎牙.php?id=11602043
@@ -2148,4 +2149,4 @@ NewTV 黑莓电影,http://yc.myds.me:35455/itv/1000000004000019624.m3u8?cdn=yste
 谨防上当受骗!,https://cccimg.com/view.php/761c19bd2505dc86f142f56f31e36667.mp4
 
 🕘️更新时间,#genre#
-2025-03-29 06:44:57,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
+2025-03-29 18:44:39,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
