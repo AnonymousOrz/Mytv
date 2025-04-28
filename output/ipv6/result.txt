@@ -368,25 +368,47 @@ CCTV15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef2314
 
 虎牙频道,#genre#
 周星星,https://live.metshop.top/huya/11342412
+周星星,http://www.52sw.top:678/play/huya.php?id=11342412
 周星星粤语经典版~,https://live.metshop.top/huya/11336587
+周星星粤语经典版~,http://www.52sw.top:678/play/huya.php?id=11336587
 【林正英】,https://live.metshop.top/huya/25256065
+【林正英】,http://www.52sw.top:678/play/huya.php?id=25256065
 英叔鬼片~胆小勿入!,https://live.metshop.top/huya/30527430
+英叔鬼片~胆小勿入!,http://www.52sw.top:678/play/huya.php?id=30527430
 林正英 搞笑惊悚恐怖电影,https://live.metshop.top/huya/29551429
+林正英 搞笑惊悚恐怖电影,http://www.52sw.top:678/play/huya.php?id=29551429
 英叔护体 | 林正英搞笑僵尸系列,https://live.metshop.top/huya/11342421
+英叔护体 | 林正英搞笑僵尸系列,http://www.52sw.top:678/play/huya.php?id=11342421
 刘德华电影_经典系列,https://live.metshop.top/huya/11342424
+刘德华电影_经典系列,http://www.52sw.top:678/play/huya.php?id=11342424
 邱淑贞太好看了吧❤,https://live.metshop.top/huya/11352949
+邱淑贞太好看了吧❤,http://www.52sw.top:678/play/huya.php?id=11352949
 【女神系列】,https://live.metshop.top/huya/11336571
+【女神系列】,http://www.52sw.top:678/play/huya.php?id=11336571
 喜剧专场 看喜剧笑一笑吧,https://live.metshop.top/huya/11352894
+喜剧专场 看喜剧笑一笑吧,http://www.52sw.top:678/play/huya.php?id=11352894
 【喜剧专场】我们一起找乐子,https://live.metshop.top/huya/11602044
+【喜剧专场】我们一起找乐子,http://www.52sw.top:678/play/huya.php?id=11602044
 【王晶】港风导演代表,https://live.metshop.top/huya/11602058
+【王晶】港风导演代表,http://www.52sw.top:678/play/huya.php?id=11602058
 洪金宝·童年回忆杀,https://live.metshop.top/huya/11279251
+洪金宝·童年回忆杀,http://www.52sw.top:678/play/huya.php?id=11279251
 【古天乐】古仔帅气开打,https://live.metshop.top/huya/29982675
+【古天乐】古仔帅气开打,http://www.52sw.top:678/play/huya.php?id=29982675
 成龙经典武打动作片,https://live.metshop.top/huya/11342386
+成龙经典武打动作片,http://www.52sw.top:678/play/huya.php?id=11342386
 李连杰系列 武打高产王,https://live.metshop.top/huya/11342390
+李连杰系列 武打高产王,http://www.52sw.top:678/play/huya.php?id=11342390
 甄子丹 我要打十个,https://live.metshop.top/huya/11352935
+甄子丹 我要打十个,http://www.52sw.top:678/play/huya.php?id=11352935
 周润发电影 小马哥归来,https://live.metshop.top/huya/11342387
+周润发电影 小马哥归来,http://www.52sw.top:678/play/huya.php?id=11342387
 【虎牙影院】沈腾经典片放映,https://live.metshop.top/huya/11601968
+【虎牙影院】沈腾经典片放映,http://www.52sw.top:678/play/huya.php?id=11601968
 简小熙赌片,https://live.metshop.top/huya/11342399
+简小熙赌片,http://www.52sw.top:678/play/huya.php?id=11342399
+堆堆港剧日常,http://www.52sw.top:678/play/huya.php?id=23903123
+纪晓岚,http://www.52sw.top:678/play/huya.php?id=11342396
 电影_强森,https://live.metshop.top/huya/21059581
 电影_漫威,https://live.metshop.top/huya/11602034
 电影_宇宙,https://live.metshop.top/huya/11342428
@@ -409,6 +431,8 @@ CCTV15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef2314
 电影_港片,https://live.metshop.top/huya/11602043
 电影_国产,https://live.metshop.top/huya/11352973
 神貂侠侣·陈晓陈妍希再塑经典,https://live.metshop.top/huya/11352964
+神貂侠侣·陈晓陈妍希再塑经典,http://www.52sw.top:678/play/huya.php?id=11352964
+陈翔六点半,http://www.52sw.top:678/play/huya.php?id=11274154
 
 埋堆堆,#genre#
 
@@ -542,4 +566,4 @@ NewTV,#genre#
 谨防上当受骗!,https://cccimg.com/view.php/761c19bd2505dc86f142f56f31e36667.mp4
 
 🕘️更新时间,#genre#
-2025-04-28 06:42:07,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
+2025-04-28 19:34:59,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
