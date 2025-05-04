@@ -148,6 +148,7 @@ CCTV8K,http://www.clmy.cc:35455/gaoma/cctv8k_120m.m3u8
 📡卫视频道,#genre#
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
@@ -566,4 +567,4 @@ NewTV,#genre#
 谨防上当受骗!,https://cccimg.com/view.php/761c19bd2505dc86f142f56f31e36667.mp4
 
 🕘️更新时间,#genre#
-2025-05-04 06:48:07,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
+2025-05-04 18:47:16,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
