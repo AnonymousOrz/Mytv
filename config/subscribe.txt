@@ -108,8 +108,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/AnonymousOrz/IPTV/mas
 https://github.moeyy.xyz/https://raw.githubusercontent.com/AnonymousOrz/IPTV/master/Live/collect/东亚(1).txt
 https://github.moeyy.xyz/https://raw.githubusercontent.com/AnonymousOrz/IPTV/master/Live/collect/tv.txt
 https://github.moeyy.xyz/https://raw.githubusercontent.com/AnonymousOrz/IPTV/master/Live/collect/longyi.txt
-https://github.moeyy.xyz/https://raw.githubusercontent.com/AnonymousOrz/IPTV/master/Live/collect/CR_250713.txt
-https://github.moeyy.xyz/https://raw.githubusercontent.com/AnonymousOrz/IPTV/master/Live/collect/channelDownload.txt
 
 
 
