@@ -5,6 +5,7 @@
 
 CCTV-1,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 CCTV-2,http://39.135.133.177:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?
 CCTV-12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
@@ -448,10 +449,10 @@ TVBS欢乐,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=19
 广东新闻,http://125.89.163.44:8888/udp/239.77.0.173:5146
 
 揭阳综合,http://211.97.63.3:801/hls/69/index.m3u8
-
+揭阳综合,http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
 揭阳生活,http://211.97.63.3:801/hls/37/index.m3u8
+揭阳生活,http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
 
-揭阳公共
 
 普宁台
 
@@ -479,7 +480,8 @@ TVBS欢乐,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=19
 汕头经济,https://stream1.freetv.fun/4165df5d240a705da7c501b31098dfbb5ae7458242cb61ccc3d988831b716c4a.ctv
 汕头经济,https://stream1.freetv.fun/b713a6979e00280533f5a7e6836f5fe5b8b87f5e4d30e5228c98b3441c0296b4.ctv
 汕头经济,https://stream1.freetv.fun/553fbb1de6c2406ebcaab7364352ef1f39ddc7b49e67f373ac5d0c2a4ffcc6ba.ctv
-
+汕尾新闻综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
+汕尾文化生活,https://iswtv.swrtv.com/live/whshpd.m3u8
 岭南戏曲,http://qjrhc.jydjd.top:2911/udp/224.1.100.157:11111
 
 
@@ -1061,27 +1063,37 @@ TVB Plus,ttp://php.jdshipin.com/PLTV/iptv.php?id=j2
 
 
 虎牙频道,#genre#
+周星星,https://isus.cc/php/huya.php?id=11342412
 周星星,https://live.metshop.top/huya/11342412
+周星星,http://fn.271919.xyz:5250/dlphp/hy.php?id=11342412
 周星星,http://www.52sw.top:678/play/huya.php?id=11342412
 周星星,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+周星星粤语经典版~,http://fn.271919.xyz:5250/dlphp/hy.php?id=11336587
 周星星粤语经典版~,https://live.metshop.top/huya/11336587
 周星星粤语经典版~,http://www.52sw.top:678/play/huya.php?id=11336587
 周星星粤语经典版~,https://live.metshop.top/huya/11336587
+【林正英】,http://fn.271919.xyz:5250/dlphp/hy.php?id=25256065
 【林正英】,https://live.metshop.top/huya/25256065
 【林正英】,http://www.52sw.top:678/play/huya.php?id=25256065
+英叔鬼片~胆小勿入!,http://fn.271919.xyz:5250/dlphp/hy.php?id=30527430
 英叔鬼片~胆小勿入!,https://live.metshop.top/huya/30527430
 英叔鬼片~胆小勿入!,http://www.52sw.top:678/play/huya.php?id=30527430
+林正英 搞笑惊悚恐怖电影,http://fn.271919.xyz:5250/dlphp/hy.php?id=29551429
 林正英 搞笑惊悚恐怖电影,https://live.metshop.top/huya/29551429
 林正英 搞笑惊悚恐怖电影,http://www.52sw.top:678/play/huya.php?id=29551429
+英叔护体 | 林正英搞笑僵尸系列,http://fn.271919.xyz:5250/dlphp/hy.php?id=11342421
 英叔护体 | 林正英搞笑僵尸系列,https://live.metshop.top/huya/11342421
 英叔护体 | 林正英搞笑僵尸系列,http://www.52sw.top:678/play/huya.php?id=11342421
 英叔护体 | 林正英搞笑僵尸系列,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+刘德华电影_经典系列,http://fn.271919.xyz:5250/dlphp/hy.php?id=11342424
 刘德华电影_经典系列,https://live.metshop.top/huya/11342424
 刘德华电影_经典系列,http://www.52sw.top:678/play/huya.php?id=11342424
 刘德华电影_经典系列,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+邱淑贞太好看了吧❤,http://fn.271919.xyz:5250/dlphp/hy.php?id=11352949
 邱淑贞太好看了吧❤,https://live.metshop.top/huya/11352949
 邱淑贞太好看了吧❤,http://www.52sw.top:678/play/huya.php?id=11352949
 邱淑贞太好看了吧❤,http://182.40.120.213/test-txdwk.flv.huya.com/src/1423787843-1423787843-6115122222127382528-2847699142-10057-A-0-1.m3u8
+【女神系列】,http://fn.271919.xyz:5250/dlphp/hy.php?id=11336571
 【女神系列】,https://live.metshop.top/huya/11336571
 【女神系列】,http://www.52sw.top:678/play/huya.php?id=11336571
 【女神系列】,http://182.40.120.183/test-txdwk.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8
@@ -1099,6 +1111,7 @@ TVB Plus,ttp://php.jdshipin.com/PLTV/iptv.php?id=j2
 【古天乐】古仔帅气开打,https://live.metshop.top/huya/29982675
 【古天乐】古仔帅气开打,http://www.52sw.top:678/play/huya.php?id=29982675
 【古天乐】古仔帅气开打,http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543150751-1239543150751-11135001227991973888-2479086424958-10057-A-0-1.m3u8
+成龙经典武打动作片,https://isus.cc/php/huya.php?id=11342386
 成龙经典武打动作片,https://live.metshop.top/huya/11342386
 成龙经典武打动作片,http://www.52sw.top:678/play/huya.php?id=11342386
 李连杰系列 武打高产王,https://live.metshop.top/huya/11342390
@@ -1114,7 +1127,7 @@ TVB Plus,ttp://php.jdshipin.com/PLTV/iptv.php?id=j2
 人狠话不多,王宝强经典电影！,https://live.metshop.top/huya/30080251
 人狠话不多,王宝强经典电影！,http://www.52sw.top:678/play/huya.php?id=30080251
 人狠话不多,王宝强经典电影！,http://182.40.120.171/test-txdwk.flv.huya.com/src/1239543153983-1239543153983-11135015109326274560-2479086431422-10057-A-0-1.m3u8
-
+梁非凡电视轮播,http://fn.271919.xyz:5250/dlphp/hy.php?id=23749083
 
 古墓系列,http://kxrj.site:1258/699/hy.php?id=11352913
 灾难电影,http://kxrj.site:1258/699/hy.php?id=11352871
@@ -1139,11 +1152,7 @@ TVB Plus,ttp://php.jdshipin.com/PLTV/iptv.php?id=j2
 许冠英合集,http://kxrj.site:1258/699/hy.php?id=11601972
 
 
-古惑仔国轮播
-粤语版电影一
-粤语版电影二
-粤语版电影三
-经典港剧
+
 经典港剧笑嘻嘻,http://kxrj.site:1258/699/hy.php?id=11352965
 情人节：港片教你追女仔,http://182.40.120.241/test-txdwk.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
 
