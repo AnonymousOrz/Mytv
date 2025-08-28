@@ -14,7 +14,7 @@
 
 
 📺央视频道,#genre#
-CCTV-1,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$!
+CCTV-1
 CCTV-2
 CCTV-3
 CCTV-4
@@ -105,16 +105,8 @@ CGTN-记录
 潮州综合
 潮州戏剧
 潮安综合
-汕头综合,https://stream1.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.ctv$!
-汕头综合,https://stream1.freetv.fun/ecd70bd486bb000d70807b25597ebaad4185287408555fbd0be6a1dc553ae2e7.ctv$!
-汕头综合,https://stream1.freetv.fun/a794cf282e739e983950cb4b21c14efbc997af480977b2cdb5d8daeb68f49650.ctv$!
-汕头综合,https://stream1.freetv.fun/dc908e40c20eab71dc70b537a6c3b778ec7ff725126a5a2cb43ed7cc89e16737.ctv$!
-汕头综合,https://stream1.freetv.fun/1a80cc76230b05ca3ea3ac3f9ae4f4a436c0bf1b4612db0dc5aec27844c9649d.ctv$!
-汕头综合,https://stream1.freetv.fun/15336a369e29ea103e39006270b9762f297e90a6ec29202ff7f05b0b53b55295.ctv$!
-汕头综合,https://stream1.freetv.fun/aa84893595b3ee82adc1c300e3b8103947272873a1b97032480f4a53311506f5.ctv$!
-汕头经济,https://stream1.freetv.fun/4165df5d240a705da7c501b31098dfbb5ae7458242cb61ccc3d988831b716c4a.ctv$!
-汕头经济,https://stream1.freetv.fun/b713a6979e00280533f5a7e6836f5fe5b8b87f5e4d30e5228c98b3441c0296b4.ctv$!
-汕头经济,https://stream1.freetv.fun/553fbb1de6c2406ebcaab7364352ef1f39ddc7b49e67f373ac5d0c2a4ffcc6ba.ctv$!
+汕头综合
+汕头经济
 汕头文旅
 汕尾新闻综合
 汕尾文化生活
@@ -134,7 +126,7 @@ CGTN-记录
 广州影视
 广州法治
 广州竞赛
-广东戏曲
+岭南戏曲
 南国都市 4K
 番禺宗合
 现代教育
@@ -168,10 +160,17 @@ CGTN-记录
 中山公共
 中山教育
 香山文化
+客家生活
+梅州-1
 惠州综合
 惠州公共
 韶关新闻综合
 韶关绿色生活
+丰顺综合
+五华频道
+河源综合
+河源公共
+河源新闻
 湛江新闻综合
 湛江公共
 江门综合
@@ -181,15 +180,9 @@ HZTV-1
 HZTV-2
 肇庆综合
 肇庆生活服务
-丰顺综合
-五华频道
-河源综合
-河源公共
-河源新闻
 清新综合台
 清远新闻综合
 清远文旅生活
-韶关生活
 云浮综合
 云浮文旅
 茂名综合
