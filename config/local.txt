@@ -452,7 +452,7 @@ TVBS欢乐,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=19
 揭阳综合,http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
 揭阳生活,http://211.97.63.3:801/hls/37/index.m3u8
 揭阳生活,http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
-
+揭阳生活,http://rustdesk.szsun.xyz:8088/udp/239.77.0.251:5146
 
 普宁台
 
@@ -468,7 +468,7 @@ TVBS欢乐,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=19
 
 潮安综合
 
-
+汕头综合,http://rustdesk.szsun.xyz:8088/udp/239.77.1.130:5146
 汕头综合,https://stream1.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.ctv
 汕头综合,https://stream1.freetv.fun/ecd70bd486bb000d70807b25597ebaad4185287408555fbd0be6a1dc553ae2e7.ctv
 汕头综合,https://stream1.freetv.fun/a794cf282e739e983950cb4b21c14efbc997af480977b2cdb5d8daeb68f49650.ctv
