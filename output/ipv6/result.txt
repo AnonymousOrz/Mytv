@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-16 18:22:49,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
+2025-11-17 06:25:10,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
 
 温馨提示,#genre#
 请自用勿贩卖,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
@@ -50,11 +50,11 @@ CCTV-5,http://www.clmy.cc:35455/gaoma/cctv5+.m3u8
 CCTV-5,http://wab201.win:35455/gaoma/cctv5+.m3u8
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV-5+,http://www.clmy.cc:35455/gaoma/cctv5.m3u8
-CCTV-5+,http://wab201.win:35455/gaoma/cctv5.m3u8
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-5+,http://www.clmy.cc:35455/gaoma/cctv5+.m3u8
 CCTV-5+,http://wab201.win:35455/gaoma/cctv5+.m3u8
+CCTV-5+,http://www.clmy.cc:35455/gaoma/cctv5.m3u8
+CCTV-5+,http://wab201.win:35455/gaoma/cctv5.m3u8
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
 CCTV-6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -157,19 +157,28 @@ CCTV8K,http://www.clmy.cc:35455/gaoma/cctv8k_120m.m3u8
 CCTV8K,http://wab201.win:35455/gaoma/cctv8k_36m.m3u8
 CCTV8K,http://wab201.win:35455/gaoma/cctv8k_120m.m3u8
 文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
+文化精品,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-WENHUA-CQ
 央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
+风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 第一剧场,https://hls-gateway.vpstv.net/streams/708862.m3u8
 第一剧场,http://tl.061833.xyz/tl/null-6
 第一剧场,https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=2190244325&u=hahayy&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
+第一剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_DIYIJC-CQ
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
+风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
 怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
+怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
+女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
 高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
+高尔夫网球,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-GOLF-CQ
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
+电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 世界地理,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 兵器科技,https://hls-gateway.vpstv.net/streams/708856.m3u8
+兵器科技,http://iptv.666230.xyz/iptv/jsyd.php/G_BINGQIKJ-CQ
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
@@ -831,6 +840,7 @@ CCTV15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSM
 CCTV15,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?
 CCTV15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8?
 CCTV风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
+CCTV风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 斗鱼舞台,https://live.metshop.top/douyu/11531165
 斗鱼舞台,https://live.iill.top/douyu/11531165
 斗鱼舞台,https://www.goodiptv.club/douyu/11531165
