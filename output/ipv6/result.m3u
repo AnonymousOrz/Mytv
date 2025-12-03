@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://localhost/https://raw.githubusercontent.com/AnonymousOrz/Mytv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="请自用勿贩卖" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/请自用勿贩卖.png" group-title="🕘️更新时间",2025-12-03 18:27:14
+#EXTINF:-1 tvg-name="请自用勿贩卖" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/请自用勿贩卖.png" group-title="🕘️更新时间",2025-12-04 06:25:46
 https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
 #EXTINF:-1 tvg-name="请自用勿贩卖" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/请自用勿贩卖.png" group-title="温馨提示",请自用勿贩卖
 https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
@@ -1743,6 +1743,8 @@ https://live.iill.top/douyu/310926
 https://www.goodiptv.club/douyu/310926
 #EXTINF:-1 tvg-name="恐怖电影" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/恐怖电影.png" group-title="斗鱼欣赏",恐怖电影
 http://wab201.win:35455/douyu/310926
+#EXTINF:-1 tvg-name="恐怖电影" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/恐怖电影.png" group-title="斗鱼欣赏",恐怖电影
+https://yylunbo.ottiptv.cc/yy/24066336
 #EXTINF:-1 tvg-name="恐怖惊悚" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/恐怖惊悚.png" group-title="斗鱼欣赏",恐怖惊悚
 https://live.metshop.top/douyu/96577
 #EXTINF:-1 tvg-name="恐怖惊悚" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/恐怖惊悚.png" group-title="斗鱼欣赏",恐怖惊悚
