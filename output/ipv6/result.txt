@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-16 18:27:29,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
+2025-12-17 06:31:33,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
 
 温馨提示,#genre#
 请自用勿贩卖,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
@@ -517,6 +517,7 @@ CCTV8K,http://wab201.win:35455/gaoma/cctv8k_120m.m3u8
 美亚电影,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=14
 TVB Plus,https://cdn6.101.qzz.io/163189/tvbp
 TVB Plus,https://migu.188766.xyz/?migutoken=ca6cb2632ed0e8b260a5d5a55692324c&id=hk_tvbp&type=dy
+TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森电影,http://iptv.diyp.site/公众号【DIYP】.php?key=gat2&id=11
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
