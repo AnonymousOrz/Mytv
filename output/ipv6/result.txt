@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-13 18:41:42,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
+2026-02-14 06:36:47,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
 
 温馨提示,#genre#
 请自用勿贩卖,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
@@ -50,10 +50,10 @@ CCTV-5,http://wab201.win:35455/gaoma/cctv5+.m3u8
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903
-CCTV-5+,http://www.clmy.cc:35455/gaoma/cctv5.m3u8
-CCTV-5+,http://wab201.win:35455/gaoma/cctv5.m3u8
 CCTV-5+,http://www.clmy.cc:35455/gaoma/cctv5+.m3u8
 CCTV-5+,http://wab201.win:35455/gaoma/cctv5+.m3u8
+CCTV-5+,http://www.clmy.cc:35455/gaoma/cctv5.m3u8
+CCTV-5+,http://wab201.win:35455/gaoma/cctv5.m3u8
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
@@ -753,12 +753,14 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 炫动卡通,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8
 炫动卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227025/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7RoPnbSvRPd3KyTpQ76WpA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 七龙珠,https://live.ottiptv.cc/huya/11601966
+七龙珠,https://live.metshop.top/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.iill.top/huya/11352879
+猫和老鼠,https://live.metshop.top/huya/11352879
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
@@ -789,7 +791,9 @@ RedBullTV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 封神榜,http://live.ottiptv.cc/huya/29465849
+封神榜,https://live.metshop.top/huya/29465849
 大秦赋,http://www.52sw.top:678/play/huya.php?id=23903130
+射雕英雄传,https://live.metshop.top/huya/23824164
 天龙八部,http://www.52sw.top:678/play/huya.php?id=11602082
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
 天龙八部,https://live.metshop.top/huya/23903123
@@ -806,6 +810,7 @@ RedBullTV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u
 金庸武侠,https://www.goodiptv.club/douyu/338759
 金庸武侠,http://wab201.win:35455/douyu/338759
 金庸武侠,https://live.ottiptv.cc/huya/11342435
+金庸武侠,https://live.metshop.top/huya/11342435
 琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
 生活大爆炸,https://live.metshop.top/douyu/6668627
 生活大爆炸,https://live.iill.top/douyu/6668627
@@ -1014,6 +1019,7 @@ CCTV风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 电影_港片,https://live.metshop.top/huya/11602043
 电影_国产,https://live.metshop.top/huya/11352973
 神貂侠侣·陈晓陈妍希再塑经典,https://live.metshop.top/huya/11352964
+倚天屠龙记,https://live.metshop.top/huya/23734246
 
 咪咕直播,#genre#
 咪咕直播2,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
