@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-17 18:47:22,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
+2026-02-18 06:32:13,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
 
 温馨提示,#genre#
 请自用勿贩卖,https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
@@ -25,13 +25,13 @@ CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-3,http://202.102.201.244:40022/udp/238.1.78.170:7232
 CCTV-3,http://zb.hexuntong.net:8188/rtp/239.3.1.172:8001
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV-4,http://zb.hexuntong.net:8188/rtp/239.3.1.105:8092
 CCTV-4,http://202.102.201.244:40022/udp/238.1.78.236:7760
+CCTV-4,http://zb.hexuntong.net:8188/rtp/239.3.1.105:8092
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://zb.hexuntong.net:8188/rtp/239.3.1.173:8001
-CCTV-5+,http://zb.hexuntong.net:8188/rtp/239.3.1.130:8004
 CCTV-5+,http://202.102.201.244:40022/udp/238.1.78.237:7768
+CCTV-5+,http://zb.hexuntong.net:8188/rtp/239.3.1.130:8004
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-6,http://zb.hexuntong.net:8188/rtp/239.3.1.174:8001
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
@@ -54,8 +54,8 @@ CCTV-12,http://zb.hexuntong.net:8188/rtp/239.3.1.64:8124
 CCTV-12,http://202.102.201.244:40022/udp/238.1.78.242:7808
 CCTV-13,http://202.102.201.244:40022/udp/238.1.79.35:4392
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-CCTV-14,http://202.102.201.244:40022/udp/238.1.78.243:7816
 CCTV-14,http://zb.hexuntong.net:8188/rtp/239.3.1.65:8132
+CCTV-14,http://202.102.201.244:40022/udp/238.1.78.243:7816
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-16,http://zb.hexuntong.net:8188/rtp/239.3.1.184:8001
 CCTV-17,http://202.102.201.244:40022/udp/238.1.78.178:7296
@@ -75,26 +75,25 @@ CETV4,rtsp://180.95.143.19/PLTV/88888910/224/3221225594/100001000000000600000000
 CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 CETV4,rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 CETV4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 怀旧剧场,http://171.83.103.119:9999/rtp/239.69.1.86:10156
-高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
 
 📡卫视频道,#genre#
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://115.48.160.128:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
-湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+江西卫视,http://115.48.160.128:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
@@ -115,12 +114,11 @@ CETV4,rtsp://60.13.23.179/PLTV/88888910/224/3221225594/1000010000000006000000000
 汕头经济,https://stream1.freetv.fun/553fbb1de6c2406ebcaab7364352ef1f39ddc7b49e67f373ac5d0c2a4ffcc6ba.ctv
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 番禺宗合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 HZTV-1,http://183.236.43.98:4013/udp/239.77.1.232:5146
 HZTV-2,http://183.236.43.98:4013/udp/239.77.1.233:5146
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 
 港澳台,#genre#
 香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
@@ -128,6 +126,7 @@ lus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+东森电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 华视,rtmp://f13h.mine.nu/sat/tv111
 靖天映画,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigHfDjvhlcSwubLm2ffedfFXku6bvyJpxyrIEil4B5LpfVMB8A7gpCCrWNvUSRiXXXeWf1ajMfN0PWvetfPYUdZzzDCXtxjUEpQmUqB1RGqWo2mZ7LEjTph_HtLZJTFi16cFluiQqoa-_n1Cz54-LDR4kIN8-KraW11yGB1XUdSi2hqpxIyqWAX8djADiGB2xKg.m3u8?u=1756878715
@@ -155,8 +154,8 @@ IPTV经典电影,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&p
 
 🏀体育频道,#genre#
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
+天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
@@ -169,7 +168,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
-动漫秀场,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG65Z92UDWjXjUztx8_6jXB9paauw4zZI0JtsOY0HKF0lC8_JLi2pa2Ma0in_8jninRMK9S6ET_iXvB0tt02GhFMVjLlS7gQGcvNT4wy5TGJ-pnjzynVYXfleaV6B-PTVjzainvo1nrtsX0XQfIjD4Wu_342NdqjeGOY-wKDY51eFJJmRV1ksdNOtjFabg76ifiDVsRkidO7CjSocYw1pRIQ.m3u8?u=1757123819
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
