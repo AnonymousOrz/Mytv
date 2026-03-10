@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://localhost/https://raw.githubusercontent.com/AnonymousOrz/Mytv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="请自用勿贩卖" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/请自用勿贩卖.png" group-title="🕘️更新时间",2026-03-10 06:30:33
+#EXTINF:-1 tvg-name="请自用勿贩卖" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/请自用勿贩卖.png" group-title="🕘️更新时间",2026-03-10 18:41:44
 https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
 #EXTINF:-1 tvg-name="请自用勿贩卖" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/请自用勿贩卖.png" group-title="温馨提示",请自用勿贩卖
 https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/xinzhihuo.mp4
@@ -1733,6 +1733,8 @@ https://live.iill.top/douyu/4246519
 https://www.goodiptv.club/douyu/4246519
 #EXTINF:-1 tvg-name="邵氏影院" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/邵氏影院.png" group-title="斗鱼欣赏",邵氏影院
 http://wab201.win:35455/douyu/4246519
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/邵氏影院.png" group-title="斗鱼欣赏",邵氏影院
+http://www.goodiptv.club/douyu/4246519
 #EXTINF:-1 tvg-name="斗鱼林正英" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼林正英.png" group-title="斗鱼欣赏",斗鱼林正英
 https://live.metshop.top/douyu/218859
 #EXTINF:-1 tvg-name="斗鱼林正英" tvg-logo="http://localhost/https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼林正英.png" group-title="斗鱼欣赏",斗鱼林正英
