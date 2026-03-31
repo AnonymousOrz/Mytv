@@ -3,7 +3,6 @@
 http://epg.51zmt.top:8000/e.xml.gz
 http://e.erw.cc/e.xml.gz
 https://epg.v1.mk/fy.xml
-https://epg.112114.xyz/pp.xml
 https://live.fanmingming.cn/e.xml
 
-
+# https://epg.112114.xyz/pp.xml
